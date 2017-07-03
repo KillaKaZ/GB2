@@ -1,2 +1,2 @@
 # GB2
-GatherBuddy2 Prolies
+GatherBuddy2 Profiles
