@@ -20,9 +20,11 @@
 <SellPurple>false</SellPurple>
 
 <Vendors>
+	<Vendor Name="Supplymaster Eri" Entry="76872" Type="Repair" Nav="Fly" X="5626.828" Y="4629.681" Z="139.3042" />
 </Vendors>
 
 <Mailboxes>
+	<Mailbox X="5580.682" Y="4570.392" Z="136.558" />
 </Mailboxes>
 
 <Blackspots>
